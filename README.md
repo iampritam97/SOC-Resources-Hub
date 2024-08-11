@@ -14,9 +14,14 @@ Aspiring SOC Analysts: Get started with the basics and build a solid foundation.
 Experienced Professionals: Deepen your knowledge with advanced materials and resources.
 Students and Educators: Use these resources to supplement your learning or teaching materials.
 
-## How to Use This Repository
-Explore the various folders and files categorized by resource type. Each section is designed to be user-friendly, with clear descriptions and easy access to the materials you need.
+## Resources
 
-## Contributing
-If you have valuable resources, tools, or tips related to SOC, feel free to contribute!
+#### Reputation Checking
+| URLs        | Active           |
+| ------------- |:-------------:|
+| [abuseIPDB](abuseipdb.com)    | Yes |
+| [IPVOID](ipvoid.com)    | Yes |
+| [VirusTotal](virustotal.com)      | Yes     |
+| [Barracuda Central](barracudacentral.org)    | Yes |
+| [Cisco Talos](talosintelligence.com) | Yes     |
 

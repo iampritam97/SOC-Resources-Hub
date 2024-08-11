@@ -20,5 +20,3 @@ Explore the various folders and files categorized by resource type. Each section
 ## Contributing
 If you have valuable resources, tools, or tips related to SOC, feel free to contribute!
 
-## Disclaimer
-This repository is a collection of publicly available resources. Please respect the licenses and usage rights of the materials provided.

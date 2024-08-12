@@ -19,11 +19,11 @@ Students and Educators: Use these resources to supplement your learning or teach
 #### Reputation Checking
 | URLs        | Active           |
 | ------------- |:-------------:|
-| [abuseIPDB](abuseipdb.com)    | Yes |
-| [IPVOID](ipvoid.com)    | Yes |
-| [VirusTotal](virustotal.com)      | Yes     |
-| [Barracuda Central](barracudacentral.org)    | Yes |
-| [Cisco Talos](talosintelligence.com) | Yes     |
-| [MetaDefender Cloud](metadefender.opswat.com) | Yes     |
+| [abuseIPDB](https://abuseipdb.com/)    | Yes |
+| [IPVOID](https://ipvoid.com/)    | Yes |
+| [VirusTotal](https://virustotal.com/)      | Yes     |
+| [Barracuda Central](https://barracudacentral.org/)    | Yes |
+| [Cisco Talos](https://talosintelligence.com/) | Yes     |
+| [MetaDefender Cloud](https://metadefender.opswat.com/) | Yes     |
 | [Polyswarm](https://polyswarm.network/) | Yes     |
 

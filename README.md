@@ -24,4 +24,6 @@ Students and Educators: Use these resources to supplement your learning or teach
 | [VirusTotal](virustotal.com)      | Yes     |
 | [Barracuda Central](barracudacentral.org)    | Yes |
 | [Cisco Talos](talosintelligence.com) | Yes     |
+| [MetaDefender Cloud](metadefender.opswat.com) | Yes     |
+| [Polyswarm](polyswarm.network) | Yes     |
 
